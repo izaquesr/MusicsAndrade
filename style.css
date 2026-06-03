@@ -543,6 +543,7 @@ section {
 .slide {
     /* largura: ~70% do viewport, com peeking dos lados */
     min-width: clamp(260px, 70vw, 640px);
+    width: 350px;
     aspect-ratio: 16/10;
     border-radius: 18px;
     overflow: hidden;
