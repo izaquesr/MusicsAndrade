@@ -138,7 +138,7 @@ document.getElementById('telefone').addEventListener('input', function () {
 
 // WHATSAPP
 function enviarWhatsApp() {
-    const whatsapp = "5511959105383"
+    const whatsapp = "5511977719678"
 
     const nome = document.getElementById('nome').value.trim();
     const telefone = document.getElementById('telefone').value.trim();
