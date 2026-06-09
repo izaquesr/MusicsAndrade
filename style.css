@@ -349,8 +349,8 @@ section {
 
 .about-badge {
     position: absolute;
-    bottom: -16px;
-    right: -16px;
+    bottom: 50px;
+    right: 50px;
     background: var(--gold);
     color: #0E0C09;
     border-radius: 12px;
