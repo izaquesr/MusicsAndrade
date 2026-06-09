@@ -349,9 +349,10 @@ section {
 
 .about-badge {
     position: absolute;
-    bottom: -16px;
-    right: -16px;
+    bottom: 80px;
+    right: 100px;
     background: var(--gold);
+    border: 4px solid #fff;
     color: #0E0C09;
     border-radius: 12px;
     padding: 16px 20px;
@@ -929,8 +930,9 @@ footer strong {
     }
 
     .about-badge {
-        bottom: -12px;
-        right: 10px
+        bottom: -2px;
+        right: 7px;
+        border: none;
     }
 
     section {
